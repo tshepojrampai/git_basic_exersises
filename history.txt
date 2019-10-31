@@ -1,0 +1,1000 @@
+  704  cd jasmine-standalone-3.4.0/
+  705  ls
+  706  cd ..
+  707  ls
+  708  mv jasmine-standalone-3.4.0 Simple_Calculator/
+  709  ls
+  710  cd  Simple_Calculator/
+  711  ls
+  712  git add jasmine-standalone-3.4.0/
+  713  git status 
+  714  git commit -m "initial commit"
+  715  git push
+  716  git clone https://github.com/MasixoleMax/Simple-Calculator.git proof
+  717  cd proof/
+  718  ls
+  719  git init
+  720  git commit -a "ititial commit"
+  721  git add -a
+  722  git add .
+  723  git commit
+  724  cd Desktop/s
+  725  cd Desktop/
+  726  git clone https://github.com/MasixoleMax/Simple-Calculator.git
+  727  cd src/
+  728  ls -la
+  729  node Test.js 
+  730  git clone https://github.com/MasixoleMax/Password_Checker.git
+  731  cd Password_Checker/
+  732  git add .
+  733  git commit -m "First commit"
+  734  git push
+  735  git add .
+  736  git commit -m "The First commit"
+  737  git push
+  738  cd /Desktop
+  739  cd ../
+  740  cd JavscripBasics
+  741  ls
+  742  cd JavascriptBasics/
+  743  pwd
+  744  ls
+  745  cd src/
+  746  node PasswordSrc.js 
+  747  pwd
+  748  ls -l
+  749  man -k recruit
+  750  man -k user
+  751  man -k recruit@recruit
+  752  man -k recruit
+  753  man -k umuzi
+  754  man -k user
+  755  man -k home
+  756  man -k users-admin
+  757  man -k users-admin (1)
+  758  man users-admin
+  759  man users-admin [Sephula]
+  760  man users-admin [recruit]
+  761  man users-admin [Masixole]
+  762  man users-admin
+  763  cd ~100
+  764  cd ~users
+  765  /
+  766  cd /
+  767  cd ~100
+  768  users-admin
+  769  cd `home
+  770  cd ~home
+  771  pwd
+  772  cd ~home
+  773  cd /home
+  774  cd /100
+  775  cd 100
+  776  cd ~100
+  777  cd ~1000
+  778  cd /1000
+  779  users-admin
+  780  cd ~recruit
+  781  cd ~1000
+  782  cd /1000
+  783  users-network
+  784  users-networks
+  785  man users-network
+  786  man users
+  787  man admin
+  788  man administartion
+  789  man -k users-admin
+  790  man -k users
+  791  wall
+  792  man users
+  793  man -k users
+  794  man wall
+  795  wall -h
+  796  wall -t 5
+  797  wall -g
+  798  wall --help
+  799  wall
+  800  pwd
+  801  cd /home/recruit/Desktop
+  802  mkdir -p outer/inner
+  803  cd outer
+  804  ls
+  805  cd Desktop
+  806  cd ..
+  807  ls
+  808  rm outer
+  809  rmdir outer
+  810  rmdir -p outer
+  811  cd inner
+  812  cd outer
+  813  ls
+  814  rmdir inner
+  815  rmdir outer
+  816  cd ..
+  817  rmdir outer
+  818  ls
+  819  git init
+  820  git add README.md
+  821  git add .
+  822  git commit -m "first commit"
+  823  git remote add origin https://github.com/MasixoleMax/Simple-string-calculator.git
+  824  git push -u origin master
+  825  git push
+  826  git add .
+  827  git commit -m "initial commit"
+  828  git reset
+  829  git add *
+  830  git status
+  831  git push
+  832  git clone https://github.com/MasixoleMax/Simple-Calculator.git
+  833  cd Simple-Calculator/
+  834  ls
+  835  cd src/
+  836  ls
+  837  cat CalculatorSrc.js 
+  838  cd ../
+  839  rm -rf Simple-Calculator 
+  840  git init
+  841  git add .
+  842  git commit -m "First commit"
+  843  git rmote add origin https://github.com/MasixoleMax/String-Calculator.git
+  844  git remote add origin https://github.com/MasixoleMax/String-Calculator.git
+  845  git remote -v
+  846  git push origin master
+  847  git init
+  848  git add *
+  849  git commit -m "my commit"
+  850  git add *
+  851  git commit -m " commit"
+  852  git remote add origin https://github.com/MasixoleMax/String-Calculator.git
+  853  git push origin master
+  854  git status
+  855  git checkout
+  856  ls
+  857  ls -la
+  858  git add .
+  859  git status
+  860  git commit -m "initial"
+  861  git push
+  862  git pull
+  863  cd src
+  864  ls -l
+  865  node stringCalculatorSrc.js 
+  866  ls -la
+  867  cd src/
+  868  ls -la
+  869  nodemon -v
+  870  node -v
+  871  node stringCalculatorSrc.js 
+  872  node stringCalculatorSrc.js \
+  873  node stringCalculatorSrc.js 
+  874  cat CalculatorSrc.js 
+  875  node 
+  876  ls
+  877  cd src/
+  878  node stringCalculatorSrc.js 
+  879  node Simple_Calculator_Part_2
+  880  ls -l
+  881  node calculatorPart2Src
+  882  ls 
+  883  cd src
+  884  ls -l
+  885  node calculatorPart2Src
+  886  pwd
+  887  ls
+  888  git init
+  889  git add .
+  890  git commit -m "New changes made to password checker"
+  891  git remote add origin https://github.com/MasixoleMax/Password_Checker.git
+  892  git remote -v
+  893  git push origin master
+  894  git pull ...
+  895  Password_Checker
+  896  git pull Password_Checker
+  897  git pull
+  898  git fetch
+  899  git push -u
+  900  git push -u origion master
+  901  git push
+  902  git push -u origin master
+  903  git pull 
+  904  git pull https://github.com/MasixoleMax/Password_Checker.git
+  905  git fetch https://github.com/MasixoleMax/Password_Checker.git
+  906  git log 
+  907  git status
+  908  git add .
+  909  git status
+  910  git add Test.js
+  911  ls
+  912  git add .
+  913  git add *
+  914  git status
+  915  git branch -u origin/master
+  916  git status
+  917  git pull https://github.com/MasixoleMax/Password_Checker.git
+  918  git add .
+  919  clear
+  920  git init
+  921  git add .
+  922  git commit -m "chnges made to code"
+  923  git pull 
+  924  git pull https://github.com/MasixoleMax/passwordChecker.git
+  925  git pull https://github.com/MasixoleMax/Password_Checker.git
+  926  git pull --allow-unrelated-histories
+  927  git push
+  928  git pull -u 
+  929  git remote add origin https://github.com/MasixoleMax/Password_Checker.git
+  930  git pull
+  931  git status
+  932  git merge --abort
+  933  git remote add origin https://github.com/MasixoleMax/Password_Checker.git
+  934  git remote rm origin
+  935  git remote add origin https://github.com/MasixoleMax/Password_Checker.git
+  936  git push -u origin master
+  937  git pull
+  938  git pull remote https://github.com/MasixoleMax/Password_Checker.git
+  939  git pull https://github.com/MasixoleMax/Password_Checker.git
+  940  git pull --allow-unrelated-histories
+  941  git pull(1)
+  942  git push origin master
+  943  git pull ...
+  944  git pull https://github.com/MasixoleMax/Password_Checker.git
+  945  clear
+  946  git init
+  947  git add origin https://github.com/MasixoleMax/passwordChecker.git
+  948  git add .
+  949  git add origin https://github.com/MasixoleMax/passwordChecker.git
+  950  git COMMIT -m "updated password checker"
+  951  git commit -m "updated password checker"
+  952  git add .
+  953  git commit -m "updated to a new code"
+  954  git add .
+  955  git commit -m "updated to new code"
+  956  git add origin https://github.com/MasixoleMax/myPasswordChecker.git
+  957  git add origin master
+  958  git add origin https://github.com/MasixoleMax/Password_Checker.git
+  959  clear
+  960  git init
+  961  git add .
+  962  git commit -m "new uppdated code"
+  963  git add origin https://github.com/MasixoleMax/passwordCheck.git
+  964  git remote add origin https://github.com/c0ldlimit/vimcolors.git
+  965  git remote add origin https://github.com/MasixoleMax/passwordCheck.git
+  966  git push -u origin master
+  967  git init
+  968  git add README.md
+  969  touch README.md
+  970  git commit -m "new updated code"
+  971  git add . 
+  972  git commit -m "changes to new code"
+  973  git remote add origin https://github.com/MasixoleMax/passwordCheck.git
+  974  git push -u origin master
+  975  git status
+  976  git init
+  977  git add
+  978  git add .
+  979  git commit -m"updated code"
+  980  git remote add origin https://github.com/MasixoleMax/password-checker.git
+  981  git push -u origin master
+  982  git status
+  983  pwd
+  984  git commit -m "new changes made to old code"
+  985  git add .
+  986  git commit -m "new changes made to my old code"
+  987  git push origin master
+  988  pwd
+  989  git add .
+  990  git init
+  991  git remote add .
+  992  git remote add . https://github.com/MasixoleMax/Simple-string-calculator.git
+  993  git add .
+  994  git commit -m "last changes"
+  995  git push -u origin master
+  996  ls
+  997  git  status
+  998  ls
+  999  cd S
+ 1000  ls
+ 1001  cd stringCalculator/
+ 1002  ls
+ 1003  git add .
+ 1004  git status
+ 1005  git commit -m "last changes"
+ 1006  git push -f
+ 1007  pwd
+ 1008  ls 
+ 1009  node stringCalculatorSrc.js 
+ 1010  pwd
+ 1011  node stringCalculatorSrc.js 
+ 1012  sudo apt update
+ 1013  sudo apt install mint-meta-codecs
+ 1014  cd Desktop/
+ 1015  git clone https://github.com/MasixoleMax/Password_Checker.git allie
+ 1016  rm -rf allie/
+ 1017  rm -rf allie
+ 1018  git clone https://github.com/MasixoleMax/Password_Checker.git allie
+ 1019  pwd
+ 1020  git status
+ 1021  git add .
+ 1022  git commit -m "Changes made to code"
+ 1023  git branch -a
+ 1024  git push https://github.com/MasixoleMax/Password_Checker.git
+ 1025  git pull https://github.com/MasixoleMax/Password_Checker.git
+ 1026  git clone https://github.com/MasixoleMax/Password_Checker.git
+ 1027  git push https://github.com/MasixoleMax/Password_Checker.git
+ 1028  git push --help
+ 1029  pwd
+ 1030  cp -R src/PasswordSrc.js ../allie/src/
+ 1031  cd \
+ 1032  cd 
+ 1033  cd Desktop/allie/
+ 1034  ls
+ 1035  git add * && git commit -m "new"
+ 1036  cd 
+ 1037  git add * && git commit -m "new"
+ 1038  git push
+ 1039  cp -R spec/PasswordSpec.js ../allie/spec/
+ 1040  git status
+ 1041  pwd
+ 1042  git stsus
+ 1043  git status
+ 1044  git commit -a
+ 1045  PWD
+ 1046  pwd
+ 1047  cd /tmp/
+ 1048  git clone https://github.com/MasixoleMax/Personal-Website
+ 1049  cd Personal-Website/
+ 1050  xdg-open .
+ 1051  ls
+ 1052  cd Resources/
+ 1053  ls
+ 1054  git clone https://github.com/MasixoleMax/Personal_Website.git Portfolio
+ 1055  ls
+ 1056  mv * Portfolio/
+ 1057  ls
+ 1058  cd Portfolio/
+ 1059  ls
+ 1060  git add *
+ 1061  git status
+ 1062  git commit -m "revisited-code"
+ 1063  git push origin master
+ 1064  git status
+ 1065  pwd
+ 1066  git status
+ 1067  git add .
+ 1068  git commit -m "updated code"
+ 1069  git push origin master
+ 1070  git push
+ 1071  ls -la
+ 1072  git status
+ 1073  git staus
+ 1074  git init
+ 1075  git add .
+ 1076  git commit -m "revisited code"
+ 1077  git add origin https://github.com/MasixoleMax/Personal_Website.git
+ 1078  git init
+ 1079  git add .
+ 1080  git commit -m "revisited code"
+ 1081  git remote add origin https://github.com/MasixoleMax/Personal_Website.git
+ 1082  git push -u origin master
+ 1083  git status 
+ 1084  git push
+ 1085  git push --set-upstream origin master
+ 1086  git init
+ 1087  git add .
+ 1088  git commit -m "revisited code"
+ 1089  git remote add origin https://github.com/MasixoleMax/Personal_Website.git
+ 1090  git push -u origin master
+ 1091  git pull https://github.com/MasixoleMax/Personal_Website.git
+ 1092  git merge
+ 1093  git status
+ 1094  ls
+ 1095  cd Resources/
+ 1096  ls
+ 1097  ls -la
+ 1098  ls
+ 1099  git clone https://github.com/MasixoleMax/Personal_Website.git Portfolio
+ 1100  ls
+ 1101  mv CSS/ Images/ Images/ Js/ Portfolio/
+ 1102  ls
+ 1103  mv index.html  Portfolio/
+ 1104  ls
+ 1105  cd Portfolio/
+ 1106  ls
+ 1107  git status
+ 1108  git add .
+ 1109  git commit -m "code update after feedback"
+ 1110  git push origin master
+ 1111  git push origin 
+ 1112  git push remote origin 
+ 1113  git push -u origin
+ 1114  git push --set upstream origin master
+ 1115  git push origin https://github.com/MasixoleMax/Personal-Website.git
+ 1116  git status
+ 1117  git commit -a "restructured the folders"
+ 1118  git commit "restructured the folders"
+ 1119  node src/CalculatorSrc.js 
+ 1120  git add .
+ 1121  git commit -m "changes made to code"
+ 1122  git push -u origin master
+ 1123  pwd
+ 1124  node /Simple-Calculator/src
+ 1125  node /Simple-Calculator
+ 1126  node /Simple-Calculator/src/
+ 1127  git pull
+ 1128  git fetch
+ 1129  git merge
+ 1130  git checkout
+ 1131  git checkout -a
+ 1132  git init
+ 1133  git status
+ 1134  git push
+ 1135  git status 
+ 1136  git log
+ 1137  git pull
+ 1138  git branch
+ 1139  git push
+ 1140  git push --set-upstream origin master
+ 1141  git init
+ 1142  git add .
+ 1143  git -a -m "."
+ 1144  git -m "."
+ 1145  git commit -a -m"."
+ 1146  git remote add --help
+ 1147  pwd
+ 1148  git add .
+ 1149  git commit -m "made the code to be in a form of a class"
+ 1150  git push origin master
+ 1151  pwd
+ 1152  ls
+ 1153  cd Password_Checker/
+ 1154  ls
+ 1155  git add .
+ 1156  git commit -m "Revisited and updated the source and spec codes"
+ 1157  git push origin master
+ 1158  git push --f origin master
+ 1159  git push -f origin master
+ 1160  pwd
+ 1161  node personSrc.js 
+ 1162  how can I pass 'interests' argument as an object that can take multiple interests in the Person class in such a way that I will use the bracket notation to 
+ 1163  node personSrc.js 
+ 1164  git init
+ 1165  git add .
+ 1166  git commit -m "first commit"
+ 1167  git remote origin https://github.com/MasixoleMax/OOP_Person.git
+ 1168  git remote add origin https://github.com/MasixoleMax/OOP_Person.git
+ 1169  git push -u origin master
+ 1170  git pull https://github.com/MasixoleMax/OOP_Person.git
+ 1171  git merge
+ 1172  git merge remote 
+ 1173  git merge personSrc.js
+ 1174  git merge https://github.com/MasixoleMax/OOP_Person.git
+ 1175  clear
+ 1176  echo "# OOP_PERSON" >> README.md
+ 1177  git init
+ 1178  git add README.md
+ 1179  git commit -m "first commit"
+ 1180  git remote add origin https://github.com/MasixoleMax/OOP_PERSON.git
+ 1181  git push -u origin master
+ 1182  git status
+ 1183  git add .
+ 1184  git commit -m "initial commit"
+ 1185  git push -u origin master
+ 1186  pwd
+ 1187  node diceSrc.js 
+ 1188  clear
+ 1189  pwd
+ 1190  ls
+ 1191  cd src
+ 1192  ls
+ 1193  node personSrc.js 
+ 1194  pwd
+ 1195  cd ../
+ 1196  ls
+ 1197  cd spec
+ 1198  ls
+ 1199  node personSpec.js 
+ 1200  node diceSrc.js 
+ 1201  node personSpec.js 
+ 1202  pwd
+ 1203  ls
+ 1204  node diceSrc.js 
+ 1205  pwd
+ 1206  ls
+ 1207  cd src
+ 1208  node diceSrc.js 
+ 1209  pwd
+ 1210  src
+ 1211  ls
+ 1212  cd src
+ 1213  node diceSrc.js 
+ 1214  node diceSrc.js 
+ 1215  pwd
+ 1216  ls
+ 1217  cd src
+ 1218  node diceSrc.js 
+ 1219  git echo "# OOP_DICE" >> README.md
+ 1220  echo "# OOP_DICE" >> README.md
+ 1221  git init
+ 1222  git commit -m "first commit"
+ 1223  git add README.md
+ 1224  git commit -m "first commit"
+ 1225  git remote add origin https://github.com/MasixoleMax/OOP_DICE.git
+ 1226  git push -u origin master
+ 1227  git add .
+ 1228  git commit -m "initial commit"
+ 1229  git push -u origin master
+ 1230  pwd
+ 1231  ls
+ 1232  cd src
+ 1233  node personSrc.js 
+ 1234  git add .
+ 1235  git commit -m "included unit testing"
+ 1236  git push -u origin master
+ 1237  git add .
+ 1238  git commit -m "fixed folder structure"
+ 1239  git push -u origin master
+ 1240  pwd
+ 1241  ls
+ 1242  cd src
+ 1243  node diceSrc.js 
+ 1244  sudo nano /etc/NetworkManager/system-connections/HotspotBootcamp 
+ 1245  pwd
+ 1246  ls
+ 1247  cd src
+ 1248  node PasswordSrc.js 
+ 1249  echo "# PasswordChecker" >> README.md
+ 1250  git init
+ 1251  git add README.md
+ 1252  git commit -m "revisited code after revision"
+ 1253  git remote add origin https://github.com/MasixoleMax/PasswordChecker.git
+ 1254  git push -u origin master
+ 1255  git add .
+ 1256  git commit -m "making sure its commited"
+ 1257  git push 
+ 1258  git add .
+ 1259  git init 
+ 1260  git add .
+ 1261  git clone 
+ 1262  pwd
+ 1263  ls
+ 1264  cd Password_Checker
+ 1265  ls
+ 1266  cd src
+ 1267  ls
+ 1268  node PasswordSrc.js 
+ 1269  clear
+ 1270  node PasswordSrc.js 
+ 1271  clear
+ 1272  node PasswordSrc.js 
+ 1273  clear
+ 1274  node PasswordSrc.js 
+ 1275  clear
+ 1276  node PasswordSrc.js 
+ 1277  pwd
+ 1278  ls
+ 1279  cd Password_Checker/
+ 1280  ls
+ 1281  cd src
+ 1282  node Password.js
+ 1283  ls
+ 1284  node PasswordSrc.js
+ 1285  clear
+ 1286  node PasswordSrc.js
+ 1287  node PasswordSpec.js 
+ 1288  node PasswordSrc.js 
+ 1289  CLEAR
+ 1290  clear
+ 1291  node PasswordSrc.js 
+ 1292  pwd
+ 1293  ls
+ 1294  cd src
+ 1295  ls
+ 1296  node bankSrc.js 
+ 1297  LS
+ 1298  ls
+ 1299  node bankAccSrc.js 
+ 1300  pwd
+ 1301  ls
+ 1302  node bankSrc.js 
+ 1303  node bankAccSrc.js 
+ 1304  node bankSrc.js 
+ 1305  node bankAccSrc.js 
+ 1306  git add .
+ 1307  git commit -m "Working code"
+ 1308  git push
+ 1309  git add .
+ 1310  git add
+ 1311  git add .
+ 1312  git commit -m "adding a spec file"
+ 1313  git add .
+ 1314  git commit -m "adding a spec file"
+ 1315  git push
+ 1316  pwd
+ 1317  ls
+ 1318  cd src
+ 1319  ls
+ 1320  node myBank.js 
+ 1321  clear
+ 1322  node myBank.js 
+ 1323  clear
+ 1324  node myBank.js 
+ 1325  git add .
+ 1326  git commit -m "updated code"
+ 1327  git push
+ 1328  git status
+ 1329  clear
+ 1330  node myBank.
+ 1331  clear
+ 1332  node myBank.js 
+ 1333  clear
+ 1334  node bankAcc.js 
+ 1335  git commit -m "spec"
+ 1336  git add .
+ 1337  git commit -m "spec"
+ 1338  git add .
+ 1339  git commit -m "spec"
+ 1340  git push
+ 1341  pwd
+ 1342  ls
+ 1343  cd src
+ 1344  ls
+ 1345  pwd
+ 1346  ls
+ 1347  node bank.js 
+ 1348  pwd
+ 1349  git add .
+ 1350  git commit -m "specifications"
+ 1351  git push 
+ 1352  pwd
+ 1353  ls
+ 1354  cd spec
+ 1355  ls
+ 1356  git add .
+ 1357  git commit -m "last commit"
+ 1358  git push
+ 1359  clear
+ 1360  pwd
+ 1361  ls
+ 1362  cd js
+ 1363  cd Js/
+ 1364  LS
+ 1365  ls
+ 1366  cd spec
+ 1367  ls
+ 1368  jasmine spec.js 
+ 1369  pws
+ 1370  pwd
+ 1371  ls
+ 1372  npm list | grep jsdom
+ 1373  npm list | grep jasmine
+ 1374  ls
+ 1375  npm list | grep jsdom
+ 1376  ls
+ 1377  clear
+ 1378  jasmine spec.js 
+ 1379  clear
+ 1380  jasmine spec.js 
+ 1381  clear
+ 1382  jasmine spec.js 
+ 1383  clear
+ 1384  jasmine spec.js 
+ 1385  clear
+ 1386  echo "# DOM_memoryGame" >> README.md
+ 1387  git init
+ 1388  git add README.md
+ 1389  git commit -m "first commit"
+ 1390  git remote add origin https://github.com/MasixoleMax/DOM_memoryGame.git
+ 1391  git push -u origin master
+ 1392  git add .
+ 1393  git commit -m "second commit"
+ 1394  git push
+ 1395  git add *
+ 1396  git commit -m "adding all files"
+ 1397  git push
+ 1398  clear
+ 1399  git add .
+ 1400  git commit -m "still adding all files"
+ 1401  git add .
+ 1402  git commit -m "still adding all files"
+ 1403  git add .
+ 1404  git commit -m "still adding all files"
+ 1405  git add .
+ 1406  git commit -m "still adding all files"
+ 1407  git init
+ 1408  git add .
+ 1409  git commit -m "adding all my files"
+ 1410  git push 
+ 1411  git push origin master
+ 1412  git init
+ 1413  git add .
+ 1414  git commit -m "first commit"
+ 1415  git push -u origin master https://github.com/MasixoleMax/DOM_memoryGame.git
+ 1416  clear
+ 1417  cd ../
+ 1418  pwd
+ 1419  ls
+ 1420  git clone https://github.com/MasixoleMax/DOM_memoryGame.git
+ 1421  git add .
+ 1422  cd DOM_memoryGame/
+ 1423  git add .
+ 1424  git commit -m "adding all files"
+ 1425  git push
+ 1426  git add .
+ 1427  git commit -m "second commit"
+ 1428  dir
+ 1429  ls
+ 1430  scrot
+ 1431  ls
+ 1432  ls
+ 1433  pwd
+ 1434  mkdir workspace
+ 1435  dir
+ 1436  mkdir [workspace]
+ 1437  ls
+ 1438  cd
+ 1439  mkdir workspace
+ 1440  cd
+ 1441  ls
+ 1442  pwd
+ 1443  workspace
+ 1444  dir workspace
+ 1445  ls
+ 1446  cd workspace
+ 1447  mkfile ReadME.cmd
+ 1448  ls
+ 1449  cd workspace
+ 1450  ls
+ 1451  touch ReadME.comd
+ 1452  touch ReadMe.md
+ 1453  mkcpy ReadMe.md
+ 1454  mkcp ReadMe.md
+ 1455  cp ReadMe.md
+ 1456  cp ReadMe.md CHANGELOG.md
+ 1457  ls
+ 1458  pwd
+ 1459  mkdir workspace
+ 1460  mkdir woorkspace
+ 1461  rm woorkspace
+ 1462  dir workspace
+ 1463  workspace
+ 1464  /workspace
+ 1465  cd workspace
+ 1466  ls
+ 1467  touch iyl
+ 1468  ls
+ 1469  cp exercise.md erricson
+ 1470  ls
+ 1471  rm erricson iyl
+ 1472  ls
+ 1473  pwd
+ 1474  rm /home/recruit/workspace/exercise.md
+ 1475  ls
+ 1476  ../
+ 1477  cd ../
+ 1478  touch umuzi.md cohort.md recruit.md
+ 1479  ls
+ 1480  rm umuzi.md cohort.md recruit.md
+ 1481  mkdir cat_commands
+ 1482  cd cat_commands
+ 1483  touch umuzi.md recruits.md cohort.md
+ 1484  ls
+ 1485  pwd
+ 1486  cat umuzi.md recruit.md cohort.md
+ 1487  ls
+ 1488  cat cohort.md
+ 1489  dp cohort.md
+ 1490  cat /cohort.md
+ 1491  ls
+ 1492  ls /home/recruit/>cohort.md
+ 1493  cat recruit.ls
+ 1494  cat cohort.md
+ 1495  cat umuzi.md 
+ 1496  cat umuzi.md
+ 1497  This is very confusing and hectic
+ 1498  cat>umuzi.md
+ 1499  ls -l umuzi.md
+ 1500  ls umuzi.md
+ 1501  cat umuzi.md
+ 1502  cat umuzi.md 
+ 1503  Umuzi works with leading employers to equip talented young people with the scarce digital skills they need to access high-value careers and thrive in the fourth industrial revolution.
+ 1504  cat>umuzi.md
+ 1505  cat>cohort.md
+ 1506  cat>recruit.md
+ 1507  touch umuzi.md
+ 1508  cat>umuzi.md
+ 1509  cat umuzi.md cohort.md recruit.md
+ 1510  cat cohort.md umuzi.md recruit.md>summary.md
+ 1511  echo "The End" >> summary.md
+ 1512  cat summary.md
+ 1513  locate umuzi
+ 1514  locate umuzi>saerch_results.md
+ 1515  cat saerch_results.md
+ 1516  cd /documents
+ 1517  cd ../
+ 1518  pwd
+ 1519  ls
+ 1520  cd Documents
+ 1521  touch pad.md
+ 1522  cd ../Desktop
+ 1523  mkdir work
+ 1524  ls
+ 1525  pwd
+ 1526  cp pad.md /home/recruit/Desktop/work
+ 1527  cd ../Documents
+ 1528  cp pad.me /home/recruit/Desktop/work
+ 1529  cp pad.md /home/recruit/Desktop/work
+ 1530  cd /work
+ 1531  cd ../work
+ 1532  cd ../Desktop
+ 1533  ls
+ 1534  cd /work
+ 1535  locate pad.me
+ 1536  locate pad.md
+ 1537  cd ../Documents
+ 1538  ls
+ 1539  cp pad.md /home/recruit/Desktop/work
+ 1540  touch Pad.md
+ 1541  cd ../work
+ 1542  cd ../Desktop
+ 1543  ls
+ 1544  pwd
+ 1545  cd /home/recruit/Desktop/work
+ 1546  cd ../Documents
+ 1547  cd ../
+ 1548  cd../Documents
+ 1549  cd ../
+ 1550  dir
+ 1551  cd Documents
+ 1552  cp Pad.md cd /home/recruit/Desktop/work
+ 1553  ls
+ 1554  cp Pad.md /home/recruit/Desktop/work Pad_Copy.md
+ 1555  cp Pad.md /home/recruit/Desktop/work>Pad_copy.md
+ 1556  cd ../
+ 1557  cd /desktop
+ 1558  cd /Desktop
+ 1559  ls
+ 1560  cd ../Desktop
+ 1561  cd /Desktop
+ 1562  cd Desktop
+ 1563  ls
+ 1564  cd work
+ 1565  ls
+ 1566  rm Pad.mdls
+ 1567  rm Pad.md
+ 1568  ls
+ 1569  git
+ 1570  git --version
+ 1571  cd ../Documents
+ 1572  cd Documents
+ 1573  cd ../
+ 1574  cd /Documents
+ 1575  cd Documents
+ 1576  ls
+ 1577  cd ../Desktop
+ 1578  cd /work
+ 1579  cd work
+ 1580  ls
+ 1581  cd ../Documents
+ 1582  cd /Documents
+ 1583  cd ../
+ 1584  cd Documents
+ 1585  ls
+ 1586  mv Pad_copy.md home/recruit/Desktop/work
+ 1587  mv Pad_copy.md /home/recruit/Desktop/work
+ 1588  cd /home/recruit/Desktop/work
+ 1589  locate updatedb
+ 1590  cd -
+ 1591  locate Pad_copy
+ 1592  locate Pad_copy.md
+ 1593  locate pad_copy.md
+ 1594  cd /
+ 1595  find .pdf
+ 1596  find ".pdf"
+ 1597  find . -type f -iname '*.pdf'
+ 1598  find . -type f -iname '*.pdf'> Desktop
+ 1599  find . -type f -iname '*.pdf'>Documents
+ 1600  $ find . -type f -newerat 2019-10-31
+ 1601  $ find . date -newerat 2017-09-25
+ 1602  find . -type f -newermt 2019-10-29
+ 1603  pwd
+ 1604  find . -type f -newermt 2007-06-07 ! -newermt 2019-10-29
+ 1605  nano touch my_bio.md
+ 1606  nano my_bio.md
+ 1607  mkdir my_files
+ 1608  mv my_bio.md my_files
+ 1609  cd my_files
+ 1610  ls
+ 1611  cd ../
+ 1612  mkdir git-basic-exercises
+ 1613  cd git-basic-exercises/
+ 1614  ls -a
+ 1615  ls 
+ 1616  git init
+ 1617  ls
+ 1618  ls -a
+ 1619  git status
+ 1620  git log
+ 1621  git add ReadMe.md
+ 1622  cd ../
+ 1623  mkdir git_exer
+ 1624  cd git exer
+ 1625  cd git_exer
+ 1626  ls -a
+ 1627  git init
+ 1628  ls -a
+ 1629  git status
+ 1630  cd git_
+ 1631  cd ../
+ 1632  cd git-basic-exercises/
+ 1633  touch README.md
+ 1634  ls
+ 1635  git add README.md
+ 1636  git status
+ 1637  cd git-basic-exercises
+ 1638  history>history.txt
+ 1639  "added history"
+ 1640  ls
+ 1641  rm history.txt
+ 1642  ls
+ 1643  git commit -m "initial commit"
+ 1644  git log
+ 1645  q
+ 1646  git logq
+ 1647  q
+ 1648  exit
+ 1649  cd git_basic_exercise/
+ 1650  git log
+ 1651  nano README.md 
+ 1652  cat README.md 
+ 1653  nano README.md 
+ 1654  cat README.md 
+ 1655  cls
+ 1656  clear
+ 1657  git status
+ 1658  cat README.md.swp
+ 1659  git commit -m "second commit"
+ 1660  git add README.md 
+ 1661  git commit -m "second commit"
+ 1662  nano README.md 
+ 1663  cat README.md 
+ 1664  git status
+ 1665  git add README.md 
+ 1666  git commit -m "third commit"
+ 1667  git log
+ 1668  3fcec6605699af50c1f8c499eb100b377df92d39
+ 1669  q
+ 1670  cls
+ 1671  clear
+ 1672  git checkout 3fcec6605699af50c1f8c499eb100b377df92d39
+ 1673  cat README.md 
+ 1674  git checkout master
+ 1675  cat README.md 
+ 1676  cd ../
+ 1677  git branch
+ 1678  cd git_basic_exercise/
+ 1679  git branch
+ 1680  clear
+ 1681  git branch milkshake-flavours
+ 1682  git checkout milkshake-flavours 
+ 1683  git branch
+ 1684  nano milk
+ 1685  ls
+ 1686  nano milkshake_flavours.md
+ 1687  git status
+ 1688  add milkshake_flavours.md 
+ 1689  git add milkshake_flavours.md 
+ 1690  git commit -m "initial flavours"
+ 1691  git status 
+ 1692  git log
+ 1693  clear
+ 1694  git checkout master
+ 1695  git branch
+ 1696  git checkout -b history
+ 1697  git log
+ 1698  history
+ 1699  >history.txt
+ 1700  ls
+ 1701  rm history.txt
+ 1702  ls
+ 1703  history>history.txt
